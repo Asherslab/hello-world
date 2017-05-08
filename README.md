@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+hi, I'm a human being, i like programming.
